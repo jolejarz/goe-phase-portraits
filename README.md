@@ -4,7 +4,7 @@ These scripts generate Figures 4 and 6 in the referenced article.
 
 # License and Copyright
 
-All files in this repository are released under the [MIT License](https://mit-license.org) as per the included [license](https://github.com/jolejarz/environmental-testing-frequency/blob/main/LICENSE.txt) file.
+All files in this repository are released under the [MIT License](https://mit-license.org) as per the included [license](https://github.com/jolejarz/goe-phase-portraits/blob/main/LICENSE.txt) file.
 
 # Reference
 
